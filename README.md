@@ -90,5 +90,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 If you have any questions, feel free to reach out:
-- *Email*: your.email@example.com
-- *GitHub*: [yourusername](https://github.com/yourusername)
+- *Email*:ak0980423@gmail.com
+- *GitHub*: [AmarProjects](https://github.com/yourusername)
