@@ -49,16 +49,18 @@ Once the application is running, you can interact with it via HTTP requests usin
 
 ### Example Requests
 1. *Park a Car:*
-    bash
-    curl -X POST http://localhost:8080/api/parking/park/A1
+    postman
+    POST the request inside postman to park the car at
+	http://localhost:8080/api/parking/park/A1
     
 2. *Unpark a Car:*
-    bash
-    curl -X POST http://localhost:8080/api/parking/leave/A1
+    
+	POST the request inside postman to unpark the car
+	http://localhost:8080/api/parking/leave/A1
     
 3. *Get All Slots:*
-    bash
-    curl -X GET http://localhost:8080/api/parking/slots
+    GET request to all the slots including available and unavailable inside
+	postman at http://localhost:8080/api/parking/slots
     
 
 ## Exception Handling
@@ -86,7 +88,7 @@ Once the application is running, you can interact with it via HTTP requests usin
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+<!--This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.-->
 
 ## Contact
 If you have any questions, feel free to reach out:
